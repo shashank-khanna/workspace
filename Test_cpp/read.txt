@@ -1,0 +1,9 @@
+The Boost C++ Libraries were successfully built!
+
+The following directory should be added to compiler include paths:
+
+    /Users/Shanks/Documents/Libraries/boost_1_57_0
+
+The following directory should be added to linker library paths:
+
+    /Users/Shanks/Documents/Libraries/boost_1_57_0/stage/lib
